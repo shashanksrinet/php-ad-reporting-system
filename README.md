@@ -8,6 +8,4 @@ Ads reporting shows how your advertising is helping you achieve your business go
 4. For admin login use admin@yourdomain.com and password admin@123
 5. For publisher login use shashank@clientdomain.com and password shashank@123
 
-
 Admin can add, edit, delete the data.
-
